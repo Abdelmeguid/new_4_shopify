@@ -3607,19 +3607,19 @@
           "1621071460d68db392-0": {
             "type": "collection",
             "settings": {
-              "collection": "populaire-producten"
+              "collection": "frontpage"
             }
           },
           "1621071460d68db392-1": {
             "type": "collection",
             "settings": {
-              "collection": "wind-energy"
+              "collection": "transformator"
             }
           },
           "1621071460d68db392-2": {
             "type": "collection",
             "settings": {
-              "collection": "hydroelectric-power"
+              "collection": "zonnepaneel"
             }
           }
         },
