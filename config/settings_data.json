@@ -1974,7 +1974,7 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "enable": false,
+          "enable": true,
           "background": "#ffe2e2",
           "text": "#a84d4d",
           "icon": "",
